@@ -1,0 +1,16 @@
+{
+  "name": "rgb2xyy",
+  "version": "1.0.0",
+  "description": "RGB转xyY和xyY转RGB的测试程序",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MingshengXu/RGB2xyY.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
